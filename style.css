@@ -1,0 +1,27 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+body{background-color:orange;}
+      h1{color:green;}
+      h2{color:blue;}
+      p{color:red;}
+
+.table{
+    border:6px;
+    width:100%;
+}
+
+.title{
+    text-align: center;
+}
+
+
+.city {
+    background-color:rgb(157, 128, 184);
+    color: white;
+    border: 2px solid rgb(238, 5, 5);
+    margin: 20px;
+    padding: 20px;
+  }
